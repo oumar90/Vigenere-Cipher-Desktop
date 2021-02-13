@@ -1,7 +1,7 @@
 # Vigenere-Cipher-Desktop [![Build Status](https://travis-ci.org/angular/angular.js.svg?branch=master)](https://github.com/oumar90/Vigenere-Cipher-Desktop.git)
 Application Cryptographique 
 
-![Vigenere Cipher Desktop App](../src/images/viginere.jpg)
+![Vigenere Cipher Desktop App](/src/images/viginere.jpg)
 
 ## Installation
 
